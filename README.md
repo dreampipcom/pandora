@@ -1,4 +1,4 @@
-# Nestor - DreamPip's Private Modules Library
+# Pandora - DreamPip's Private Modules Library
 
 What: Security-sensitive: Business/Customer Secrets, Dockerfile Declarations, NPM Packages, PIP Packages, APK Packages, APT Packages.
 
